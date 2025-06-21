@@ -19,11 +19,11 @@ into one file for your EPROM programmer. One way is to use the DOS 'COPY' comman
 <p align="center">8008 SBC G22V10 #1 Schematic</p><br>
 <p align="center"><img src="/images/8008 SBC Schematic-5.jpg"/>
 <p align="center">8008 SBC G22V10 #2 Schematic</p><br>
-<p align="center"><img src="/images/8008 SBC.png"/>
-<p align="center">8008 SBC</p><br>
 <p align="center"><img src="/images/8008 SBC Schematic-6.jpg"/>
 <p align="center">8008 SBC Serial I/O Schematic</p><br>
 <p align="center"><img src="/images/8008 SBC Schematic-7.jpg"/>
 <p align="center">8008 Parallel Output Schematic</p><br>
 <p align="center"><img src="/images/8008 SBC Schematic-8.jpg"/>
 <p align="center">8008 SBC Vcc and Gnd Connections</p><br>
+<p align="center"><img src="/images/8008 SBC.png"/>
+<p align="center">8008 SBC</p><br>
